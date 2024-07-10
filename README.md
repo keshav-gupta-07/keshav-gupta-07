@@ -15,3 +15,28 @@
   - 📫 &nbsp; How to reach me: guptakeshav0710@gmail.com  
 </div> 
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/keshav-07-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-07-gupta" height="30" width="40" /></a>
+</p>
+
+## :trophy: Languages and Tools: :robot:
+ 
+ <table>
+  <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
+  <tr>
+    <td>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js&perline=3)](https://skillicons.dev)
+      </td>
+ <td>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,react,express,pycharm,mysql,selenium,mongodb,django,fastapi,flask,tensorflow,opencv,pytorch&perline=6)](https://skillicons.dev)
+    </td>
+ <td>
+ 
+[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,vercel,figma,anaconda,notion&perline=3)](https://skillicons.dev)
+ </td>
+    </tr>
+  </table>
