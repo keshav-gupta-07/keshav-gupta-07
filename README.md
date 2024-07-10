@@ -6,13 +6,13 @@
 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Machine Learning projects.
-  - 🌱 &nbsp; Learning more about Frontend Developement & Data Science.
-  - ✍️ &nbsp; Pursuing Competitive Programming as a hobby.   
-  - 💬 &nbsp; Ask me about Machine Learning | Data Science  
-  - 📫 &nbsp; How to reach me: guptakeshav0710@gmail.com  
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Engineering.
+- 💼 &nbsp; I’m currently working on Machine Learning projects.
+- 🌱 &nbsp; Learning more about Frontend Developement & Data Science.
+- ✍️ &nbsp; Pursuing Competitive Programming as a hobby.
+- 💬 &nbsp; Ask me about Machine Learning | Data Science
+- 📫 &nbsp; How to reach me: guptakeshav0710@gmail.com
 </div> 
 </div>
 
@@ -22,14 +22,15 @@
 </p>
 
 ## :trophy: Languages and Tools: :robot:
- 
+
  <table>
   <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
   <tr>
     <td>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js&perline=3)](https://skillicons.dev)
-      </td>
+</td>
+
  <td>
  
  [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,react,express,pycharm,mysql,selenium,mongodb,django,fastapi,flask,tensorflow,opencv,pytorch&perline=6)](https://skillicons.dev)
@@ -40,3 +41,17 @@
  </td>
     </tr>
   </table>
+
+<h3>My GitHub Stats</h3>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=keshav-gupta-07&show_icons=true&theme=dark&locale=en" alt="keshav-gupta-07" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshav-gupta-07&show_icons=true&theme=dark&locale=en&layout=compact" alt="keshav-gupta-07" /></td>
+  </tr>
+</table>
+<div align="center">
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-gupta-07raghavawasthi24&theme=dark" alt="keshav-gupta-07" />
+</p>
+</div>
