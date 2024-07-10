@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi 👋, I'm Keshav Gupta
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-gupta-07&label=Profile%20views&color=0e75b6&style=flat" alt="keshav-gupta-07" /> </p>
 
 <!--
 **keshav-gupta-07/keshav-gupta-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
