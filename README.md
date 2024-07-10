@@ -52,6 +52,6 @@
 </table>
 <div align="center">
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-gupta-07raghavawasthi24&theme=dark" alt="keshav-gupta-07" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-gupta-07&theme=dark" alt="keshav-gupta-07" />
 </p>
 </div>
