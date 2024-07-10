@@ -32,11 +32,11 @@
       </td>
  <td>
  
- [![My Skills](https://skillicons.dev/icons?i=git,github,bootstrap,react,express,pycharm,mysql,selenium,mongodb,django,fastapi,flask,tensorflow,opencv,pytorch&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,react,express,pycharm,mysql,selenium,mongodb,django,fastapi,flask,tensorflow,opencv,pytorch&perline=6)](https://skillicons.dev)
     </td>
  <td>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,vercel,figma,anaconda,notion&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,netlify,vercel,figma,anaconda,notion&perline=3)](https://skillicons.dev)
  </td>
     </tr>
   </table>
