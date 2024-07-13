@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Keshav Gupta 👋 </h1>
-<h3 align="center">🚀 Frontend Developer | Machine Learning Enthusiast | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Web Developer | Machine Learning Enthusiast | Competitive Programmer  🚀</h3>
 <div>
  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-gupta-07&label=Profile%20views&color=0e75b6&style=flat" alt="keshav-gupta-07" /> </p>
