@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering.
 - 💼 &nbsp; I’m currently working on Machine Learning projects.
-- 🌱 &nbsp; Learning more about Web Developement & Data Science.
+- 🌱 &nbsp; Learning more about Web Development & Data Science.
 - ✍️ &nbsp; Pursuing Competitive Programming as a hobby.
 - 💬 &nbsp; Ask me about Machine Learning | Data Science
 - 📫 &nbsp; How to reach me: guptakeshav0710@gmail.com
