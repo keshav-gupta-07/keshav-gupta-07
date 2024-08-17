@@ -33,7 +33,7 @@
 
  <td>
  
- [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,react,express,pycharm,mysql,selenium,mongodb,django,fastapi,flask,tensorflow,opencv,pytorch&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,react,express,redux,postman,pycharm,mysql,selenium,mongodb,django,fastapi,flask,tensorflow,opencv,pytorch&perline=6)](https://skillicons.dev)
     </td>
  <td>
  
