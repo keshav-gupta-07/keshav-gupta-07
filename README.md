@@ -37,7 +37,7 @@
     </td>
  <td>
  
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,netlify,vercel,figma,anaconda,notion&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,netlify,vercel,aws,figma,anaconda,notion&perline=3)](https://skillicons.dev)
  </td>
     </tr>
   </table>
